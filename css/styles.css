@@ -1,0 +1,31 @@
+div { font-family: montserrat, Verdana, Segoe, sans-serif;font-weight:bold;letter-spacing: 0.01em; }
+
+@page um {
+  background: url('./images/pg1.png') no-repeat 0 0;
+  background-image-resize: 6;
+}
+
+@page dois {
+  background: url('./images/pg2.png') no-repeat 0 0;
+  background-image-resize: 6;
+}
+
+@page tres {
+  background: url('./images/pg3.png') no-repeat 0 0;
+  background-image-resize: 6;
+}
+
+@page quatro {
+  background: url('./images/pg4.png') no-repeat 0 0;
+  background-image-resize: 6;
+}
+
+@page cinco {
+  background: url('./images/pg5.png') no-repeat 0 0;
+  background-image-resize: 6;
+}
+
+@page seis {
+  background: url('./images/pg6.png') no-repeat 0 0;
+  background-image-resize: 6;
+}
